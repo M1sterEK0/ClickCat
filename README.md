@@ -8,4 +8,4 @@ You are free to use, copy, modify and distribute the project for non-commercial 
 
 
 
-You can download the already compiled [file](https://github.com/M1sterEK0/ClickCat/dist/ClickCat.zip)
+You can download the already compiled [file](https://github.com/M1sterEK0/ClickCat/raw/main/dist/ClickCat.zip)
