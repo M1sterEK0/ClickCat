@@ -3,7 +3,9 @@ A cat that smacks when you press the keyboard / mouse
 
 This project is distributed under the GNU General Public License 3.0 (GPLv3).
 You are free to use, copy, modify and distribute the project for non-commercial purposes.
-**Commercial use is not encouraged.** If you want to use the project for commercial purposes, please contact me for permission: [M1sterEK0](https://t.me/M1sterEK0) [Email](mailto:m1sterek0@yandex.ru)
+**Commercial use is not encouraged.** If you want to use the project for commercial purposes, please contact me for permission: 
+[Telegram](https://t.me/M1sterEK0)
+[Email](mailto:m1sterek0@yandex.ru)
 
 
 
