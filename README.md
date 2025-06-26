@@ -11,3 +11,7 @@ You are free to use, copy, modify and distribute the project for non-commercial 
 
 
 You can compile from source or download an already compiled: [Windows ClickCat.zip](https://github.com/M1sterEK0/ClickCat/raw/main/dist/ClickCat.zip)
+
+
+
+If you liked it, put a "+" in the "issues" section
